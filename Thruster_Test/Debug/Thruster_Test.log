@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\oem\documents\visual studio 2015\projects\thruster_test\thruster_test\MyForm.h(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\oem\documents\visual studio 2015\projects\thruster_test\thruster_test\MyForm.h(1214): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Thruster_Test.vcxproj -> C:\Users\OEM\documents\visual studio 2015\Projects\Thruster_Test\Debug\Thruster_Test.exe
+  Thruster_Test.vcxproj -> C:\Users\OEM\documents\visual studio 2015\Projects\Thruster_Test\Debug\Thruster_Test.pdb (Full PDB)
